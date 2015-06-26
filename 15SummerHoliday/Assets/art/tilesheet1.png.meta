@@ -1,0 +1,2013 @@
+fileFormatVersion: 2
+guid: 7b0fe779b6d219541b148eeb022007ec
+timeCreated: 1435341932
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tilesheet1_0
+    21300002: tilesheet1_1
+    21300004: tilesheet1_2
+    21300006: tilesheet1_3
+    21300008: tilesheet1_4
+    21300010: tilesheet1_5
+    21300012: tilesheet1_6
+    21300014: tilesheet1_7
+    21300016: tilesheet1_8
+    21300018: tilesheet1_9
+    21300020: tilesheet1_10
+    21300022: tilesheet1_11
+    21300024: tilesheet1_12
+    21300026: tilesheet1_13
+    21300028: tilesheet1_14
+    21300030: tilesheet1_15
+    21300032: tilesheet1_16
+    21300034: tilesheet1_17
+    21300036: tilesheet1_18
+    21300038: tilesheet1_19
+    21300040: tilesheet1_20
+    21300042: tilesheet1_21
+    21300044: tilesheet1_22
+    21300046: tilesheet1_23
+    21300048: tilesheet1_24
+    21300050: tilesheet1_25
+    21300052: tilesheet1_26
+    21300054: tilesheet1_27
+    21300056: tilesheet1_28
+    21300058: tilesheet1_29
+    21300060: tilesheet1_30
+    21300062: tilesheet1_31
+    21300064: tilesheet1_32
+    21300066: tilesheet1_33
+    21300068: tilesheet1_34
+    21300070: tilesheet1_35
+    21300072: tilesheet1_36
+    21300074: tilesheet1_37
+    21300076: tilesheet1_38
+    21300078: tilesheet1_39
+    21300080: tilesheet1_40
+    21300082: tilesheet1_41
+    21300084: tilesheet1_42
+    21300086: tilesheet1_43
+    21300088: tilesheet1_44
+    21300090: tilesheet1_45
+    21300092: tilesheet1_46
+    21300094: tilesheet1_47
+    21300096: tilesheet1_48
+    21300098: tilesheet1_49
+    21300100: tilesheet1_50
+    21300102: tilesheet1_51
+    21300104: tilesheet1_52
+    21300106: tilesheet1_53
+    21300108: tilesheet1_54
+    21300110: tilesheet1_55
+    21300112: tilesheet1_56
+    21300114: tilesheet1_57
+    21300116: tilesheet1_58
+    21300118: tilesheet1_59
+    21300120: tilesheet1_60
+    21300122: tilesheet1_61
+    21300124: tilesheet1_62
+    21300126: tilesheet1_63
+    21300128: tilesheet1_64
+    21300130: tilesheet1_65
+    21300132: tilesheet1_66
+    21300134: tilesheet1_67
+    21300136: tilesheet1_68
+    21300138: tilesheet1_69
+    21300140: tilesheet1_70
+    21300142: tilesheet1_71
+    21300144: tilesheet1_72
+    21300146: tilesheet1_73
+    21300148: tilesheet1_74
+    21300150: tilesheet1_75
+    21300152: tilesheet1_76
+    21300154: tilesheet1_77
+    21300156: tilesheet1_78
+    21300158: tilesheet1_79
+    21300160: tilesheet1_80
+    21300162: tilesheet1_81
+    21300164: tilesheet1_82
+    21300166: tilesheet1_83
+    21300168: tilesheet1_84
+    21300170: tilesheet1_85
+    21300172: tilesheet1_86
+    21300174: tilesheet1_87
+    21300176: tilesheet1_88
+    21300178: tilesheet1_89
+    21300180: tilesheet1_90
+    21300182: tilesheet1_91
+    21300184: tilesheet1_92
+    21300186: tilesheet1_93
+    21300188: tilesheet1_94
+    21300190: tilesheet1_95
+    21300192: tilesheet1_96
+    21300194: tilesheet1_97
+    21300196: tilesheet1_98
+    21300198: tilesheet1_99
+    21300200: tilesheet1_100
+    21300202: tilesheet1_101
+    21300204: tilesheet1_102
+    21300206: tilesheet1_103
+    21300208: tilesheet1_104
+    21300210: tilesheet1_105
+    21300212: tilesheet1_106
+    21300214: tilesheet1_107
+    21300216: tilesheet1_108
+    21300218: tilesheet1_109
+    21300220: tilesheet1_110
+    21300222: tilesheet1_111
+    21300224: tilesheet1_112
+    21300226: tilesheet1_113
+    21300228: tilesheet1_114
+    21300230: tilesheet1_115
+    21300232: tilesheet1_116
+    21300234: tilesheet1_117
+    21300236: tilesheet1_118
+    21300238: tilesheet1_119
+    21300240: tilesheet1_120
+    21300242: tilesheet1_121
+    21300244: tilesheet1_122
+    21300246: tilesheet1_123
+    21300248: tilesheet1_124
+    21300250: tilesheet1_125
+    21300252: tilesheet1_126
+    21300254: tilesheet1_127
+    21300256: tilesheet1_128
+    21300258: tilesheet1_129
+    21300260: tilesheet1_130
+    21300262: tilesheet1_131
+    21300264: tilesheet1_132
+    21300266: tilesheet1_133
+    21300268: tilesheet1_134
+    21300270: tilesheet1_135
+    21300272: tilesheet1_136
+    21300274: tilesheet1_137
+    21300276: tilesheet1_138
+    21300278: tilesheet1_139
+    21300280: tilesheet1_140
+    21300282: tilesheet1_141
+    21300284: tilesheet1_142
+    21300286: tilesheet1_143
+    21300288: tilesheet1_144
+    21300290: grass_1
+    21300292: tilesheet1_146
+    21300294: tilesheet1_147
+    21300296: tilesheet1_148
+    21300298: tilesheet1_149
+    21300300: tilesheet1_150
+    21300302: tilesheet1_151
+    21300304: tilesheet1_152
+    21300306: tilesheet1_153
+    21300308: tilesheet1_154
+    21300310: tilesheet1_155
+    21300312: tilesheet1_156
+    21300314: tilesheet1_157
+    21300316: tilesheet1_158
+    21300318: tilesheet1_159
+    21300320: tilesheet1_160
+    21300322: grass_2
+    21300324: grass_3
+    21300326: grass_4
+    21300328: grass_5
+    21300330: grass_6
+    21300332: stairs_up
+    21300334: stairs_down
+    21300336: door
+    21300338: dark_wall_1
+    21300340: dark_wall_2
+    21300342: dark_wall_3
+    21300344: dark_wall_4
+    21300346: dark_wall_5
+    21300348: dark_wall_6
+    21300350: dark_floor_1
+    21300352: dark_floor_2
+    21300354: dark_floor_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tilesheet1_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 863
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 861
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 857
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 856
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 857
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 858
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 858
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 856
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 857
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_9
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 864
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_10
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 814
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 857
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 814
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 811
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 807
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 814
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 807
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 807
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 747
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 747
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 780
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 781
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 784
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 779
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 776
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 776
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 775
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 777
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 777
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 779
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 780
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 777
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 778
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 775
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 745
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 744
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 710
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_37
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 682
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 718
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 717
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 712
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 731
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_43
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 731
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_44
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 727
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_45
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 713
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_54
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 685
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_55
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 688
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_56
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 697
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_57
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 686
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_59
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 646
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 607
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 616
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 627
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 632
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_64
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 610
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_65
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 609
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_66
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 610
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_67
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 610
+        width: 159
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 615
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 617
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_70
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 610
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_71
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 612
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_72
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 610
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_73
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 610
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 495
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 493
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 530
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_77
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 540
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 546
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_79
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 475
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_80
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 474
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 419
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 419
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 419
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 419
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 419
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 418
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 417
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 438
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 417
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 418
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_91
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 435
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 416
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 418
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_95
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 419
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_96
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 419
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_97
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 420
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_98
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 420
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_99
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 422
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_100
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 439
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_101
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 419
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_102
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 419
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_103
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 420
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_104
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 426
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 423
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_106
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 422
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_107
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 412
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_108
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 417
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_109
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 418
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_110
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 419
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_111
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 372
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_112
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 374
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_113
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 372
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_114
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 372
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 374
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 373
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 376
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 376
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_119
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 376
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 378
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_121
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 377
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 377
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_123
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 377
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_124
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 378
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_125
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 379
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_126
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 386
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_127
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 385
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_128
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_129
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 382
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_130
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_131
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 386
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_132
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 379
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_133
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 391
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_134
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 389
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_135
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 388
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_136
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 367
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_137
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 366
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_138
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_139
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 368
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_140
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 343
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 298
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_142
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 297
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_143
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 306
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_146
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 111
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_147
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 112
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_148
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 111
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_149
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 111
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_150
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 112
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_151
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 111
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_152
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 82
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_153
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 81
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_154
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 46
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_155
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 46
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_156
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_157
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 78
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_158
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 46
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_159
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 46
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilesheet1_160
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 856
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_up
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_down
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_wall_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_wall_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_wall_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_wall_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_wall_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_wall_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_floor_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_floor_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dark_floor_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
