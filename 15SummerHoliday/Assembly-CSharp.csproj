@@ -46,9 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Player.cs" />
-     <Compile Include="Assets\makeRoom.cs" />
-     <None Include="Assets\art credit.txt" />
+     <Compile Include="Assets\2d\Player.cs" />
+     <Compile Include="Assets\2d\levelGenerator.cs" />
+     <None Include="Assets\2d\art credit.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

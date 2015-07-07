@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2d\Player.cs">
     <Files>
-      <File FileName="Assets\Player.cs" Line="8" Column="16" />
-      <File FileName="Assets\makeRoom.cs" Line="12" Column="15" />
+      <File FileName="Assets\2d\levelGenerator.cs" Line="12" Column="25" />
+      <File FileName="Assets\2d\Player.cs" Line="20" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
