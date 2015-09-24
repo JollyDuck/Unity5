@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: bb4c292774a269b468f0f0407dbab69e
+timeCreated: 1443101307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tiles_nes_0
+    21300002: tiles_nes_1
+    21300004: tiles_nes_2
+    21300006: tiles_nes_3
+    21300008: tiles_nes_4
+    21300010: tiles_nes_5
+    21300012: tiles_nes_6
+    21300014: tiles_nes_7
+    21300016: tiles_nes_8
+    21300018: tiles_nes_9
+    21300020: tiles_nes_10
+    21300022: tiles_nes_11
+    21300024: tiles_nes_12
+    21300026: tiles_nes_13
+    21300028: tiles_nes_14
+    21300030: tiles_nes_15
+    21300032: tiles_nes_16
+    21300034: tiles_nes_17
+    21300036: tiles_nes_18
+    21300038: tiles_nes_19
+    21300040: tiles_nes_20
+    21300042: tiles_nes_21
+    21300044: tiles_nes_22
+    21300046: tiles_nes_23
+    21300048: tiles_nes_24
+    21300050: tiles_nes_25
+    21300052: tiles_nes_26
+    21300054: tiles_nes_27
+    21300056: tiles_nes_28
+    21300058: tiles_nes_29
+    21300060: tiles_nes_30
+    21300062: tiles_nes_31
+    21300064: tiles_nes_32
+    21300066: tiles_nes_33
+    21300068: tiles_nes_34
+    21300070: tiles_nes_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tiles_nes_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tiles_nes_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
